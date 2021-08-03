@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ColorViewMy</string>
+    <string name="box_one">Ящик Один</string>
+    <string name="box_two">Ящик Два</string>
+    <string name="box_three">Ящик Три</string>
+    <string name="box_four">Ящик Четыре</string>
+    <string name="button_red">Красная</string>
+    <string name="button_yellow">Желтая</string>
+    <string name="button_green">Зеленая</string>
+    <string name="how_to_play">Как играть</string>
+    <string name="tap_boxes_buttons">Тапните коробки и кнопки</string>
+</resources>
